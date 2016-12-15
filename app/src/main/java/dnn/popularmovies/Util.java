@@ -8,7 +8,7 @@ public class Util {
     //url api
     public static String URL_API = "http://api.themoviedb.org/3";
     //key api
-    public static String API_KEY = "6c984574d10205028c4f5a9248d845a6";
+    public static String API_KEY = "";
     //url thumb movie
     public static String THUMB_URL = "http://image.tmdb.org/t/p/w185_and_h278_bestv2/";
     //url poster movie
